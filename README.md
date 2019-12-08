@@ -1,4 +1,4 @@
-##data_science_notebooks
+
 Here you can find examples of data science works in python
 from easy to complicated examples and recipes in different libraries
 Tensorflow, Keras, Pandas, Numpy, Scipy, Theano, Pytorch and so on
